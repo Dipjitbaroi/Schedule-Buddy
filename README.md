@@ -8,11 +8,11 @@ Demo: [https://](https://)
 ### Repo clone
 Clone the repository into your projects directory:
 ```
-git clone https://github.com/
+git clone https://github.com/Dipjitbaroi/Schedule-Buddy.git
 ```
 Or
 ```
-git clone git@github.com:
+git clone git@github.com:Dipjitbaroi/Schedule-Buddy.git
 ```
 Navigate to the project directory:
 ```
