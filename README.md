@@ -3,7 +3,7 @@
 This is a great appointment scheduler application built using React. Here's a breakdown of the functionalities and specifications for running the project locally.
 
 ### 1. Live Demo
-Demo: [https://](https://)
+Demo: [https://schedule-buddy.vercel.app](https://schedule-buddy.vercel.app)
 
 ### Repo clone
 Clone the repository into your projects directory:
